@@ -1,0 +1,16 @@
+{
+  "name": "TP02 연금술",
+  "short_name": "TP02",
+  "description": "밤에만 나는 재료를 캐고 물약을 만드는 옆으로 가는 연금술 게임",
+  "start_url": "../",
+  "scope": "../",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#1a161e",
+  "theme_color": "#1a161e",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
